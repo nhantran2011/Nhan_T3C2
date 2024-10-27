@@ -1,37 +1,50 @@
 # Nhan_T3C2
-# 📱 Web Bán Điện Thoại | Phone Shop Project
+# 📱 Project PhoneStore
 
-Chào mừng đến với dự án Web Bán Điện Thoại của tôi! Đây là một dự án cá nhân mà tôi phát triển nhằm cung cấp trải nghiệm mua sắm trực tuyến dễ dàng và hấp dẫn cho người dùng có nhu cầu mua điện thoại di động.
+## 👤 Giới Thiệu Bản Thân & Nhóm
+Xin chào! Chúng tôi là nhóm phát triển đến từ **5 Anh Em Siêu Nhân Company**. Chúng tôi đam mê công nghệ và chuyên tạo ra các sản phẩm chất lượng, dễ sử dụng và có tính thẩm mỹ cao.
 
-## 🧑 Giới Thiệu Bản Thân
-**Họ và tên:** TRẦN CHÁNH NHÂN 
+### Thành Viên Nhóm
+- **TRẦN CHÁNH NHÂN** - Team Leader
+- **HỒ TUẤN ANH** - Product Owner
+- **NGUYỄN TRẦN PHƯƠNG LINH** - Scrum Master
+- **NGUYỄN LÊ HOÀNG NAM** - Developer
+- **NGUYỄN LÊ TRIỀU VĨ** - Developer
 
-**Chuyên ngành:** Công nghệ phần mềm
+## 🌐 Công Nghệ Đã Tham Gia
+Chúng tôi đã sử dụng các công nghệ tiên tiến nhất để phát triển và duy trì các dự án, bao gồm:
+- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Backend:** Node.js, Express.js, Python
+- **Cơ Sở Dữ Liệu:** MySQL, MongoDB
+- **Thiết Kế:** Figma, Adobe XD
 
-**Kinh nghiệm:** 3 năm 
+## 📂 Dự Án Tham Gia
+- **Website thương mại điện tử bán điện thoại - PhoneStore**: Dự án tập trung vào việc xây dựng một nền tảng thương mại điện tử thân thiện với người dùng, nơi khách hàng có thể mua sắm điện thoại, tham khảo các đánh giá sản phẩm và có trải nghiệm mượt mà từ đầu đến cuối.
 
-**Liên hệ:** tranchanhnhan2011@gmail.com
+## 📱 Giới Thiệu Dự Án PhoneStore
 
-Tôi là một lập trình viên đam mê tạo ra các ứng dụng web thân thiện với người dùng. Dự án này giúp tôi trau dồi kỹ năng phát triển giao diện (Frontend) và quản lý cơ sở dữ liệu (Backend) cũng như tích hợp các tính năng thanh toán, tìm kiếm, và quản lý sản phẩm.
+**PhoneStore** là một website thương mại điện tử cho phép người dùng:
+- Duyệt và tìm kiếm các loại điện thoại theo nhiều tiêu chí (giá, thương hiệu, tính năng).
+- Xem thông tin chi tiết sản phẩm, đánh giá, và hình ảnh.
+- Thêm sản phẩm vào giỏ hàng, thanh toán trực tuyến và theo dõi đơn hàng.
 
-## 🎯 Mục Tiêu Dự Án
-Dự án này được tạo ra nhằm:
-- Xây dựng một website bán điện thoại với giao diện thân thiện.
-- Cung cấp tính năng tìm kiếm và lọc sản phẩm.
-- Tích hợp hệ thống giỏ hàng và thanh toán trực tuyến.
-- Quản lý sản phẩm, danh mục, và thông tin khách hàng dễ dàng.
+### 💻 Công Nghệ Sử Dụng Trong PhoneStore
+- **Frontend:** HTML, CSS
+- **Backend:** ASP.NET, C#
+- **Cơ Sở Dữ Liệu:** MySQL
 
-## 🚀 Tính Năng Chính
-1. **Trang chủ hiện đại:** Hiển thị các sản phẩm nổi bật, khuyến mãi, và sản phẩm mới.
-2. **Danh mục sản phẩm:** Người dùng có thể xem theo thương hiệu, cấu hình, giá cả, hoặc đánh giá.
-3. **Tìm kiếm và lọc sản phẩm:** Cho phép tìm kiếm theo từ khóa và lọc sản phẩm theo nhu cầu.
-4. **Giỏ hàng và thanh toán:** Thêm sản phẩm vào giỏ, xem giỏ hàng, và thanh toán trực tuyến an toàn.
-5. **Quản lý người dùng và sản phẩm:** Quản lý thông tin sản phẩm, kiểm tra đơn hàng, và cập nhật tình trạng.
+### 🚀 Tính Năng Nổi Bật
+- **Tìm kiếm sản phẩm nhanh chóng:** Công cụ tìm kiếm nâng cao để lọc sản phẩm theo giá, thương hiệu, đánh giá.
+- **Giỏ hàng và thanh toán:** Tính năng thêm/xóa sản phẩm trong giỏ hàng, xử lý thanh toán qua Stripe một cách an toàn.
+- **Quản lý tài khoản người dùng:** Đăng ký, đăng nhập, và cập nhật thông tin cá nhân, xem lịch sử đơn hàng.
+- **Quản trị:** Trang quản lý sản phẩm, đơn hàng và khách hàng cho admin.
 
-## 🛠️ Công Nghệ Sử Dụng
-- **Frontend:** HTML, CSS, JavaScript, React.js / Angular.js
-- **Backend:** Node.js / PHP / Python, Express
-- **Cơ sở dữ liệu:** MySQL / MongoDB / Firebase
-- **Thanh toán:** Tích hợp cổng thanh toán: PayPal, VNPAY, v.v.
-## 📬 Liên Hệ
-Nếu bạn có bất kỳ câu hỏi hoặc góp ý nào, đừng ngần ngại liên hệ qua email: [tranchanhnhan2011@gmail.com].
+### 💡 Định Hướng Phát Triển
+Tích hợp chatbot hỗ trợ khách hàng.
+Cập nhật các tính năng mua trả góp, giảm giá theo sự kiện.
+
+### 📞 Liên Hệ
+Hãy liên hệ với chúng tôi để biết thêm chi tiết:
+
+Email: tranchanhnhan2011@gmail.com
+LinkedIn: 5 Anh Em Siêu Nhân Company
