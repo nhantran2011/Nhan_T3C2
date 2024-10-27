@@ -1,7 +1,7 @@
 # Nhan_T3C2
 # 📱 Project PhoneStore
 
-## 👤 Giới Thiệu Bản Thân & Nhóm
+## 🧑 Giới Thiệu Bản Thân & Nhóm
 Xin chào! Chúng tôi là nhóm phát triển đến từ **5 Anh Em Siêu Nhân Company**. Chúng tôi đam mê công nghệ và chuyên tạo ra các sản phẩm chất lượng, dễ sử dụng và có tính thẩm mỹ cao.
 
 ### Thành Viên Nhóm
