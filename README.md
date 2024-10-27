@@ -40,12 +40,12 @@ Chúng tôi đã sử dụng các công nghệ tiên tiến nhất để phát t
 - **Quản trị:** Trang quản lý sản phẩm, đơn hàng và khách hàng cho admin.
 
 ### 💡 Định Hướng Phát Triển
-Tích hợp chatbot hỗ trợ khách hàng.
-Cập nhật các tính năng mua trả góp, giảm giá theo sự kiện.
+- Tích hợp chatbot hỗ trợ khách hàng.
+- Cập nhật các tính năng mua trả góp, giảm giá theo sự kiện.
 
 ### 📞 Liên Hệ
 Hãy liên hệ với chúng tôi để biết thêm chi tiết:
 
-Email: tranchanhnhan2011@gmail.com
+- Email: tranchanhnhan2011@gmail.com
 
-LinkedIn: 5 Anh Em Siêu Nhân Company
+- LinkedIn: 5 Anh Em Siêu Nhân Company
