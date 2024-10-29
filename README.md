@@ -1,4 +1,4 @@
-https://static.vecteezy.com/system/resources/previews/011/976/274/non_2x/stick-figures-welcome-free-vector.jpg
+![stick-figures-welcome-free-vector](https://github.com/user-attachments/assets/f9fea41c-ea2d-48b8-b3a1-353e532f9cda)
 # 📱 Project PhoneStore
 
 ## 🧑 Giới Thiệu Bản Thân & Nhóm
