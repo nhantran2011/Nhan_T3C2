@@ -1,4 +1,4 @@
-# Nhan_T3C2
+https://static.vecteezy.com/system/resources/previews/011/976/274/non_2x/stick-figures-welcome-free-vector.jpg
 # 📱 Project PhoneStore
 
 ## 🧑 Giới Thiệu Bản Thân & Nhóm
