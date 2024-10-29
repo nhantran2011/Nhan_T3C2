@@ -1,3 +1,4 @@
+![hinh-anh-dong-chu-welcome_075932972](https://github.com/user-attachments/assets/b23e38f5-ec1b-4d9b-9dd1-9e148040ebdc)
 ![stick-figures-welcome-free-vector](https://github.com/user-attachments/assets/f9fea41c-ea2d-48b8-b3a1-353e532f9cda)
 # 📱 Project PhoneStore
 
