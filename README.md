@@ -20,6 +20,8 @@ Chúng tôi đã sử dụng các công nghệ tiên tiến nhất để phát t
 
 ## 📂 Dự Án Tham Gia
 - **Website thương mại điện tử bán điện thoại - PhoneStore**: Dự án tập trung vào việc xây dựng một nền tảng thương mại điện tử thân thiện với người dùng, nơi khách hàng có thể mua sắm điện thoại, tham khảo các đánh giá sản phẩm và có trải nghiệm mượt mà từ đầu đến cuối.
+- **Website Thương Mại Điện Tử Bán Sách - BookMart**: Dự án tập trung vào việc xây dựng một nền tảng trực tuyến chuyên cung cấp sách với nhiều thể loại, từ văn học đến giáo dục và sách chuyên ngành. Dự án tập trung vào trải nghiệm cá nhân hóa, gợi ý sách dựa trên sở thích của người dùng, và cung cấp đánh giá từ cộng đồng độc giả. Ngoài ra, tích hợp mục blog với bài viết giới thiệu sách, phỏng vấn tác giả và đánh giá từ chuyên gia giúp người dùng hiểu sâu hơn về từng đầu sách.
+- **Website Đặt Vé Du Lịch - TravelGo**: Dự án tập trung vào việc xây dựng một nền tảng đặt vé du lịch cho phép người dùng tìm kiếm và đặt vé máy bay, khách sạn, và tour du lịch. Tập trung vào việc cung cấp thông tin chính xác, tùy chọn gói dịch vụ linh hoạt, và đánh giá từ khách hàng để đảm bảo chuyến đi trọn vẹn.
 
 ## 📱 Giới Thiệu Dự Án PhoneStore
 
